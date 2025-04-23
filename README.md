@@ -2,6 +2,10 @@
 
 Selamat datang di laman resmi Hackathon KGI 2025, sebuah ajang inovasi digital yang mengajak Anda untuk menciptakan solusi berbasis Artificial Intelligence dan Machine Learning dengan sentuhan geo-sains. Hackathon ini dirancang sebagai ruang kolaboratif untuk mengembangkan ide cemerlang, memperluas jaringan profesional, dan mendalami teknologi terbaru di bawah bimbingan para ahli.
 
+<p style="text-align: center;">
+    <img src="image/hackathon-kgi-2025.jpeg" alt="Hackathon KGI 2025" height="400">
+</p>
+
 ## Ketentuan Umum
 
 - Terbuka bagi dua kategori: mahasiswa S1 dan profesional.
