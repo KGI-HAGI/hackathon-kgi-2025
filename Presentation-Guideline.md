@@ -1,7 +1,7 @@
 # Presentation Guideline
 
 - Presentasi dilakukan secara **online** pada tanggal **21 Mei 2025**
-- Peserta bisa **ikut sesi presentasi** jika sudah **mengumpulkan materi sebelum** tenggat waktu akhir pengumpulan **17 Mei 2025 23.59**
+- Peserta bisa **ikut sesi presentasi** jika sudah **mengumpulkan materi sebelum** tenggat waktu akhir pengumpulan **16 Mei 2025 23.59**
   - Detail dokumen yang dikumpulkan bisa dilihat di **[Guideline Hackathon - Fase 2](https://github.com/KGI-HAGI/hackathon-kgi-2025/blob/main/Hackathon-Fase2.md)**
 - Setiap tim memiliki waktu **25 menit** presentasi yang terdiri dari
   - Penjelasan proposal solusi: **15 menit**
